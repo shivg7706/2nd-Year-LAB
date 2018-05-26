@@ -1,3 +1,6 @@
+// Program description
+// This program implements Merge Sort
+
 #include<bits/stdc++.h>
 using namespace std;
 class MergeSort{

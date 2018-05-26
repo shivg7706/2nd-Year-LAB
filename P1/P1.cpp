@@ -1,5 +1,9 @@
+// Program description
+// This program implements Binary Searching
+
 #include<bits/stdc++.h>
 using namespace std;
+
 class Program{
 private:
     int n,x;
