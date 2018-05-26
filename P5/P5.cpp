@@ -1,3 +1,6 @@
+// Program description
+// This program performs inorder, preorder and postorder traversals on a tree.
+
 #include<bits/stdc++.h>
 using namespace std;
 struct node

@@ -1,3 +1,6 @@
+// Program description
+// This program implements quick sort
+
 import java.util.*;
 import java.util.Random;
 class P4{

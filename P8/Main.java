@@ -1,3 +1,6 @@
+// Program description
+// This program implements Hashing.
+
 import java.util.Scanner;
 
 public class Main {

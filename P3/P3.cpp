@@ -1,3 +1,6 @@
+// Program description
+// This program converts infix expression to postfix
+
 #include<bits/stdc++.h>
 using namespace std;
 

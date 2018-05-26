@@ -1,3 +1,6 @@
+// Program description
+// This program perfroms operations on linked lists
+
 import java.util.Scanner;
 import java.util.*;
 
